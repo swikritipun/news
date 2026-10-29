@@ -1,0 +1,28 @@
+body{
+background-color: #FF0000;
+}
+h2{
+color: white;
+}
+.breaking{
+border: 2px solid white;
+width: 80px;
+height: 40px;
+background-color: #ff0000;
+
+}
+.break{
+margin-top: -1px;
+color: white;
+}
+
+img{
+width: 700px;
+margin-top: 70px;
+margin-left: 270px;
+}
+
+marquee{
+background-color: white;
+color: #ff0000;
+}
